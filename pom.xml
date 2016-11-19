@@ -14,6 +14,18 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+   <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-jar-plugin</artifactId>
+        <version>2.3.1</version>
+        <configuration>
+          <outputDirectory>C:\Program Files (x86)\Jenkins\workspace\Ejemplo Jenkins</outputDirectory>
+        </configuration>
+      </plugin>
+    </plugins>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
