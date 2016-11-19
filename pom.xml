@@ -21,7 +21,7 @@
         <artifactId>maven-jar-plugin</artifactId>
         <version>3.0.2</version>
         <configuration>
-          <outputDirectory>C:\Program Files (x86)\Jenkins\workspace\Ejemplo Jenkins</outputDirectory>
+          <outputDirectory>tarjet</outputDirectory>
         </configuration>
       </plugin>
     </plugins>
