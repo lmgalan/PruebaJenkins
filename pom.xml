@@ -19,7 +19,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jar-plugin</artifactId>
-        <version>3.3.9</version>
+        <version>3.0.2</version>
         <configuration>
           <outputDirectory>C:\Program Files (x86)\Jenkins\workspace\Ejemplo Jenkins</outputDirectory>
         </configuration>
